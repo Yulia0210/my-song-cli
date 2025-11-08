@@ -1,1 +1,2 @@
 Feature note 1
+Feature note 2
